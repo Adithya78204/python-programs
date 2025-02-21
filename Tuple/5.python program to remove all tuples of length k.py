@@ -1,3 +1,4 @@
+#5.python program to remove all tuples of length k.py
 def remove_tup(lst,k):
     empty_list = []
 

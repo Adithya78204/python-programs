@@ -1,3 +1,4 @@
+#.3.Python program to find the maximum and minimum K elements in a tuple.py
 def find_min_max_k(tup, k):
     temp_list = list(tup)   # convert tuple to list cuz tuple is immutable
 
